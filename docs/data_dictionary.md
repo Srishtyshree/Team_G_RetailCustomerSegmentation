@@ -7,7 +7,7 @@
 | Dataset name | UCI Online Retail II |
 | Source | [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii) (donated by Daqing Chen, September 2019) |
 | Accessed via | Kaggle mirror — `mashlyn/online-retail-ii-uci` |
-| Raw file name | `data/raw/online_retail_II.zip` |
+| Raw file name | `data/raw/online_retail_II.csv` and `data/raw/online_retail_II.zip` |
 | Time period | December 1, 2009 – December 9, 2011 |
 | Rows | 1,067,371 |
 | Columns | 8 |
