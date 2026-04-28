@@ -112,13 +112,3 @@ A data-backed segmentation strategy lets the retention team:
 | ~25% missing CustomerIDs | These rows are excluded from RFM analysis; quantified and reported in cleaning log |
 | 2-year window may be too short for cohort analysis | Use rolling 6-month windows for trend stability |
 | Large file size | Already mitigated by committing the 15 MB compressed ZIP rather than the 94 MB raw CSV |
-
-## 9. Deliverables Map (Phase 1 → Phase 2)
-
-| Phase 1 (this submission) | Phase 2 (final) |
-|---|---|
-| Problem statement ✅ | Cleaned dataset in `data/processed/` |
-| Dataset selection ✅ | All 5 notebooks committed |
-| Initial KPI framework ✅ | `scripts/etl_pipeline.py` |
-| Backup datasets identified ✅ | Tableau Public dashboard (with interactive filter) |
-| Repo skeleton committed ✅ | `reports/project_report.pdf` + `reports/presentation.pdf` |
