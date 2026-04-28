@@ -1,7 +1,14 @@
 # Phase 1 Proposal — DVA Capstone 2
 
 **Sector:** Retail / E-Commerce
-**Team:** TBD
+**Team ID:** G
+**Team Members:**
+- Gayatri Jaiswal — M1 Project Lead ([`TechGenie-awake`](https://github.com/TechGenie-awake))
+- Ananya — M2 Data Engineer ([`ANANYA542`](https://github.com/ANANYA542))
+- Mahek Motwani — M3 EDA & KPI Analyst ([`MAHEK-ops`](https://github.com/MAHEK-ops))
+- Sneha Chepurwar — M4 Statistician & Dashboard Builder ([`sneha31-debug`](https://github.com/sneha31-debug))
+- Srishty Shree — M5 Insights, Report & Presentation Lead ([`Srishtyshree`](https://github.com/Srishtyshree))
+
 **Submission window:** Phase 1
 **Institute:** Newton School of Technology
 

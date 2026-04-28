@@ -49,13 +49,13 @@ If you are working in Google Colab:
 
 | Role | Name | GitHub Username |
 |---|---|---|
-| Project Lead | _Name_ | `github-handle` |
-| Data Lead | _Name_ | `github-handle` |
-| ETL Lead | _Name_ | `github-handle` |
-| Analysis Lead | _Name_ | `github-handle` |
-| Visualization Lead | _Name_ | `github-handle` |
-| Strategy Lead | _Name_ | `github-handle` |
-| PPT and Quality Lead | _Name_ | `github-handle` |
+| Project Lead | Gayatri Jaiswal | [`TechGenie-awake`](https://github.com/TechGenie-awake) |
+| Data Lead | Gayatri Jaiswal | [`TechGenie-awake`](https://github.com/TechGenie-awake) |
+| ETL Lead | Ananya | [`ANANYA542`](https://github.com/ANANYA542) |
+| Analysis Lead | Mahek Motwani | [`MAHEK-ops`](https://github.com/MAHEK-ops) |
+| Visualization Lead | Sneha Chepurwar | [`sneha31-debug`](https://github.com/sneha31-debug) |
+| Strategy Lead | Srishty Shree | [`Srishtyshree`](https://github.com/Srishtyshree) |
+| PPT and Quality Lead | Srishty Shree | [`Srishtyshree`](https://github.com/Srishtyshree) |
 
 ---
 
@@ -287,18 +287,19 @@ The project follows a structured 7-step workflow:
 
 This table must match evidence in GitHub Insights, PR history, and committed files.
 
+_Initial planned ownership shown below — will be finalized in Phase 2 based on actual GitHub commit + PR history._
+
 | Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
 |---|---|---|---|---|---|---|---|
-| _Member 1_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 2_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 3_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 4_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 5_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| _Member 6_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Gayatri Jaiswal (M1) | Owner | Support | — | — | — | Support | Support |
+| Ananya (M2) | Support | Owner | Support | — | — | — | — |
+| Mahek Motwani (M3) | — | Support | Owner | Support | — | — | — |
+| Sneha Chepurwar (M4) | — | — | Support | Owner | Owner | — | — |
+| Srishty Shree (M5) | — | — | — | Support | Support | Owner | Owner |
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
 
-**Team Lead Name:** _____________________________
+**Team Lead Name:** Gayatri Jaiswal
 
 **Date:** _______________
 
